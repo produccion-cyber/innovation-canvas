@@ -1,0 +1,6 @@
+{
+  "name": "Innovation Canvas",
+  "description": "Aplicativo para transformar problemas en oportunidades de innovación mediante técnicas creativas guiadas, evaluación y matriz de priorización tecnológica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
